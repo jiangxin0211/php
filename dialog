@@ -1,0 +1,57 @@
+前端渲染（vue）：CDN 在浏览器完成，每次从服务器回传都减少一次模板的加载
+PHP后端渲染：Aptana  xampp  navicat
+    Aptana的运行环境必须是XAMPP的。。。下面
+
+
+
+
+PHP语法--php.ini --解析成（html，js，css）--apache打包成包体--chrome
+
+F12-->network
+
+
+WAMP/LAMP  IIS+PHP配置 
+    
+服务器传输
+
+Windows配置文件： ini
+Linux配置文件：.conf
+文件格式，可执行文件，（PE，ELF）  
+不可执行文件:hosts /etc/hosts  ip-域名
+
+202.331.42.155  www.twitter.com
+
+80：
+443
+注释见面加#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
