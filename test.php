@@ -14,14 +14,14 @@
 //数据库编码：UTF-8 setEncodeing()
 
 ?>
-<!-- php数据类型 -->
-    <!-- 四个标量类型：int float string bool
+php数据类型
+    四个标量类型：int float string bool
     两个符合类型：array object
-    两个特殊类型：resource null -->
+    两个特殊类型：resource null
 
 
-<!-- 变量是否存在: isset
-在内存中的销毁变量：unset -->
+变量是否存在: isset
+在内存中的销毁变量：unset
 
 <?php
 //php中：变量区分大小写，函数名不区分大小写！！！
