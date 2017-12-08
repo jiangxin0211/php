@@ -2,7 +2,30 @@
 PHP后端渲染：Aptana  xampp  navicat
     Aptana的运行环境必须是XAMPP的hdocs。。。下面
 
+跨域：前端跨域：
+     后端跨域：
 
+1.webserver:(ngnix,apache,resin,tomcat,weblogic) 
+
+
+DNS解析：一个域名解析出多个IP，不同服务器
+    1）配置httpd.conf 虚拟目录配置  www.a.com
+    2)hosts文件  system32/drive/etc/hosts
+    3)smarthosts 
+
+数据包（包头，包体） 包头（请求头，响应头）get/post
+
+GET/POST 会刷新页面
+
+80-->http   httpd.conf（虚拟主机） 对应一个发布目录
+443-->https  ssl https://www.alipay.com 加密
+
+部署：WAMP/LAMP  IIS+PHP配置 
+
+
+apache配置:
+1.发布目录：htdocs
+2.error_reporting （php.ini） 弱类型语言会出现notice错误 ---php容错机制
 
 
 PHP语法--php.ini --解析成（html，js，css）--apache打包成包体--chrome
@@ -10,7 +33,7 @@ PHP语法--php.ini --解析成（html，js，css）--apache打包成包体--chro
 F12-->network
 
 
-WAMP/LAMP  IIS+PHP配置 
+
     
 服务器传输
 
